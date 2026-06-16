@@ -18,7 +18,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ==================== CONFIGURATION ====================
 GITHUB_TOKEN = "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"   # Your provided token
-TELEGRAM_TOKEN = "8525746028:AAFR-YEKmhYr_UxK2ay7C8k9pSCyP0nQc28"  # Your bot token
+TELEGRAM_TOKEN = "8626025191:AAFGtpDgtl-jfRTGvVejOMelDEFGQGPJoGI"  # Your bot token
 
 # ==================== CORE SCANNER ENGINE ====================
 class GitHubEnvHunter:
